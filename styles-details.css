@@ -1,0 +1,30 @@
+/* styles-details.css */
+
+body {
+  font-family: 'Trebuchet MS', sans-serif;
+  background-color: #A0BB8C;
+}
+@media (max-width: 600px) {
+            header {
+                font-size: 18px;
+            }
+        }
+h1 {
+  background-color: #A0BB8C;
+  padding: 5px;
+  text-align: center;
+}
+
+p1 {
+  padding: 15px;
+  text-align: center;
+}
+p2 {
+  padding: 15px;
+  text-align: center;
+}
+p3 {
+  padding: 15px;
+  text-align: center;
+}
+
